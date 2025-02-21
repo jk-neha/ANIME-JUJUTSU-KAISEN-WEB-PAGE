@@ -8,6 +8,8 @@ This project is a simple static website built using HTML to showcase the informa
 4. Watch Trailer Page(watch.html)- Contains an embedded trailer video(YouTube)
 
 #🛠️ Technologies Used
+
+
 /jujutsu-kaisen-web
                                                             -----|
 |--jjk.html                  #Main Homepage                      |    
