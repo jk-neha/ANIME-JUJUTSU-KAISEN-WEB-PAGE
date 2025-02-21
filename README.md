@@ -11,6 +11,8 @@ This project is a simple static website built using HTML to showcase the informa
 
 
 /jujutsu-kaisen-web
+                        
+                                                            
                                                             -----|
 |--jjk.html                  #Main Homepage                      |    
 |--read.html                 #Read Page (Story and Synopsis)     |----->>   HTML CODING (jjk)
